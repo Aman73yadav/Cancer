@@ -1,2 +1,2 @@
-Cancer
-  npm install
+npm install
+
