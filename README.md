@@ -1,1 +1,2 @@
 Cancer
+  npm install
